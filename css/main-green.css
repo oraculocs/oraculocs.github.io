@@ -1066,6 +1066,22 @@ body > footer .copyrights {
   text-align: justify;
 }
 
+.item-description2{
+  margin-top: -10px;
+}
+
+.item-description3{
+  margin-top: -10px;
+}
+
+.item-description4{
+  margin-top: -10px;
+}
+
+.item-description5{
+  margin-top: -10px;
+}
+
 /* Skills */
 .skills-info {
   margin-bottom: 30px;
